@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu chamo Edson Peres, tenho 23 anos e sou natural do Rio Grande do Sul. Faço parte do Geração Caldeira 2025 e curso Análise e desenvolvimento de sistemas. Meu LinkedIn ["https://www.linkedin.com/flagship-web/in/edson-peres-a11b181aa/"]
+Olá, tenho 23 anos e sou natural do Rio Grande do Sul. Faço parte do Geração Caldeira 2025 e curso Análise e desenvolvimento de sistemas. Meu LinkedIn ["https://www.linkedin.com/flagship-web/in/edson-peres-a11b181aa/"]
 
 ---
 
